@@ -1,0 +1,21 @@
+.root {
+  background-color: #2c2c32;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+}
+
+.wrapper a {
+  padding: 20px;
+  font-size: 30px;
+
+  text-decoration: none;
+}
+
+.wrapper a:hover {
+  text-decoration: underline;
+}
